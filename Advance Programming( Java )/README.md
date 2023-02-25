@@ -1,3 +1,5 @@
+This Advance Programming ( java ) file contains project files of java - which is weather app
+
 "Weather App Project"
 
 This repository contains all the files for the Weather App project. The project is written in Python and allows users to check the current weather conditions for a specific location.
