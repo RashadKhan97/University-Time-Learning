@@ -1,0 +1,8 @@
+Aurdino UNO with cable = 1130
+3 small cars = 50
+IR Proximity Sensor - 2 = 200
+16x2 Serial LCD Module Display for Arduino Assembled /
+16x2 LCD Display with i2c interface = 400
+ULTRASONIC SONAR SENSOR HC- SR04 =
+mini servo sg90 = 200
+jumpers wire = 100
